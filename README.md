@@ -1,2 +1,2 @@
 # Portfolio.ALifeLivedFully.com
-files for my personal portfolio
+files for my personal portfolio.
